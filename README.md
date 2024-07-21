@@ -29,3 +29,5 @@ The challenges we have try to solve are:
 15. Top publisher by Count each year
 16. Total revenue by region
 17. Sales Histogram
+
+** The Database is taken from Kaggle
