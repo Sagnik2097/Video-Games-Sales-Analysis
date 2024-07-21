@@ -4,12 +4,12 @@ Visualizing these data points does more than provide a clear and concise view of
 Whether you’re a game enthusiast seeking to quench your curiosity about market trends, a professional on the lookout for actionable insights, or even a casual observer interested in the world of video games, this project has something to offer. It’s more than just a project, it’s a journey through the world of video games, seen through the lens of data. So, sit back, relax, and enjoy this fascinating journey. Happy gaming and happy analyzing!
 
 The dataset could also include:
-Critic_Score - Aggregated score compiled by Metacritic staff, float
-Critic_Count - The number of critics used in coming up with the Critic_score, integer
-User_Score - Score by Metacritic’s subscribers, float
-User_Count - Number of users who gave the user_score, integer
-Developer - Party responsible for creating the game, object
-Rating - The ESRB ratings (i.e. E for Everyone, T for Teen, M for Mature, etc.), object
+- Critic_Score - Aggregated score compiled by Metacritic staff, float
+- Critic_Count - The number of critics used in coming up with the Critic_score, integer
+- User_Score - Score by Metacritic’s subscribers, float
+- User_Count - Number of users who gave the user_score, integer
+- Developer - Party responsible for creating the game, object
+- Rating - The ESRB ratings (i.e. E for Everyone, T for Teen, M for Mature, etc.), object
 
 The challenges we have try to solve are:
 1. What genre games have been made the most?
